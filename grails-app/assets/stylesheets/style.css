@@ -1,0 +1,100 @@
+
+html, body {
+
+    justify-content: center;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+    
+}
+
+form {
+    border: 2px solid #f1f1f1;
+
+    padding: 25px;
+    height: fit-content;
+
+}
+
+input, textarea {
+    width: 100%;
+    padding: 16px;
+    margin: 8px 1px;
+    border: 1px solid #ccc;
+
+}
+
+button {
+
+    color: #ffffff;
+    padding: 8px;
+
+    border: 1px solid;
+    border-radius: 5px;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    fone-size: 18;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.formcontainer {
+
+    margin: 4px 50px;
+
+
+
+}
+
+.container {
+    padding: 16px 0;
+
+
+}
+
+
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 5px;
+}
+
+
+
+
+tr:nth-child(even) {
+    background-color: #f1f1f1;
+
+}
+
+#red{
+    background-color: red;
+    color: white;
+}
+#colour{
+    background-color: #00ffa1;
+    color: black;
+    padding: 14px;
+    margin: 10px 0;
+    border: none;
+    float: right;
+    width: 10%;
+
+}
+
+
+
